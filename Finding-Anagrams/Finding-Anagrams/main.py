@@ -25,4 +25,4 @@ def find_anagrams(word_one, word_two):
     else:
         return False
 
-# print(find_anagrams("Binary", "BRAinY"))
+print(find_anagrams("Binary", "BRAinnY"))
